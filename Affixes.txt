@@ -1,0 +1,120 @@
+increased Attack Speed
+?
+to maximum Life
+?
+Chance to Block|Chance to Block with Shields
+reduced Enemy Stun Threshold
+Mana on kill
+to Intelligence
+to Strength
+to Dexterity
+to Dexterity and Intelligence
+to All Attributes
+increased Physical Damage
+increased Stun Recovery
+to Level of Socketed Melee Gems
+to Level of Socketed Lightning Gems
+to Level of Socketed Minion Gems
+to Level of Socketed Fire Gems
+increased Flask Life Recovery Rate
+to Level of Socketed Cold Gems
+Additional Chance To Block Spells While Dual Wielding|Additional Chance To Block Spells With Staves
+?
+to Fire Resistance
+to Cold Resistance 
+to Lightning Resistance
+to Chaos Resistance
+to Spell Damage
+to all Elemental Resistances
+?
+?
+?
+?
+Adds Cold Damage
+Adds Fire Damage
+Adds Lightning Damage
+?
+?
+to maximum Mana
+?
+?
+increased Mana Regeneration Rate
+?
+?
+?
+?
+increased Armour
+Life gained for each Enemy hit by your Attacks
+increased Evasion and Energy Shield
+to Armour
+?
+?
+?
+?
+?
+?
+?
+increased Rarity of Items found
+increased Cast Speed
+Physical Attack Damage Leeched As Mana
+?
+?
+increased Critical Strike Chance
+increased Global Critical Strike Multiplier
+increased Light Radius
+increased Movement Speed
+increased Stun Duration on Enemies
+Reflects Physical Damage to Melee Attackers
+Life Regenerated per second
+?
+reduced Attribute Requirements
+?
+increased Projectile Speed
+increased Lightning Damage
+increased Fire Damage
+increased Cold Damage
+?
+Life gained on Kill
+?
+?
+to Accuracy Rating
+?
+Adds Physical Damage|Adds Physical Damage to Attacks
+increased maximum Energy Shield
+to maximum Energy Shield
+?
+increased Elemental Damage with Weapons
+?
+?
+Spell Critical Strike Chance
+?
+?
+?
+?
+?
+increased Evasion Rating
+increased Armour and Evasion
+?
+?
+increased Armour and Energy Shield
+?
+?
+?
+?
+to Level of Socketed Gems
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
