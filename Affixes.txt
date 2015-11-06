@@ -5,10 +5,14 @@ to maximum Life
 Chance to Block|Chance to Block with Shields
 reduced Enemy Stun Threshold
 Mana on kill
+?
+?
 to Intelligence
 to Strength
 to Dexterity
 to Dexterity and Intelligence
+to Strength and Intelligence
+to Strength and Dexterity
 to All Attributes
 increased Physical Damage
 increased Stun Recovery
@@ -16,23 +20,26 @@ to Level of Socketed Melee Gems
 to Level of Socketed Lightning Gems
 to Level of Socketed Minion Gems
 to Level of Socketed Fire Gems
-increased Flask Life Recovery Rate
+increased Flask Life Recovery Rate|increased Flask Mana Recovery Rate
 to Level of Socketed Cold Gems
 Additional Chance To Block Spells While Dual Wielding|Additional Chance To Block Spells With Staves
+?
+increased Damage over Time
 ?
 to Fire Resistance
 to Cold Resistance 
 to Lightning Resistance
 to Chaos Resistance
-to Spell Damage
 to all Elemental Resistances
-?
-?
-?
-?
+Area has patches of burning ground
+Area has patches of chilled ground
+Area has patches of shocking ground
+Area has patches of desecrated ground
 Adds Cold Damage
 Adds Fire Damage
 Adds Lightning Damage
+?
+?
 ?
 ?
 to maximum Mana
@@ -42,7 +49,7 @@ increased Mana Regeneration Rate
 ?
 ?
 ?
-?
+to Fire and Cold Resistances|to Cold and Lightning Resistances|to Fire and Lightning Resistances
 increased Armour
 Life gained for each Enemy hit by your Attacks
 increased Evasion and Energy Shield
@@ -51,8 +58,8 @@ to Armour
 ?
 ?
 ?
-?
-?
+chance to Shock
+chance to Ignite
 ?
 increased Rarity of Items found
 increased Cast Speed
@@ -66,9 +73,9 @@ increased Movement Speed
 increased Stun Duration on Enemies
 Reflects Physical Damage to Melee Attackers
 Life Regenerated per second
-?
+increased Flask Charges Gained|reduced Flask Charges Used
 reduced Attribute Requirements
-?
+increased Area Damage
 increased Projectile Speed
 increased Lightning Damage
 increased Fire Damage
@@ -76,26 +83,28 @@ increased Cold Damage
 ?
 Life gained on Kill
 ?
-?
+increased Chaos Damage
 to Accuracy Rating
 ?
 Adds Physical Damage|Adds Physical Damage to Attacks
 increased maximum Energy Shield
 to maximum Energy Shield
-?
+chance to Knock Enemies Back on hit
 increased Elemental Damage with Weapons
 ?
-?
+increased Critical Strike Multiplier with One Handed Melee Weapons
 Spell Critical Strike Chance
 ?
 ?
 ?
-?
+increased Totem Damage|Totems gain to all Elemental Resistances
+increased Trap Throwing Speed|increased Trap Damage
+increased Mine Damage
 ?
 increased Evasion Rating
 increased Armour and Evasion
-?
-?
+to Evasion Rating
+of Physical Attack Damage Leeched As Life
 increased Armour and Energy Shield
 ?
 ?
@@ -112,9 +121,32 @@ to Level of Socketed Gems
 ?
 ?
 ?
+increased Maximum Mana
 ?
 ?
 ?
 ?
 ?
 ?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+increased Spell Damage

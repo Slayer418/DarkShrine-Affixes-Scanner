@@ -51,10 +51,12 @@ While True
 			If $Affixes.Exists($FilteredString) Then
 				$EffectSplit = StringSplit($Affixes.Item($FilteredString), "|")
 				$Effects = $Effects & $FilteredString & @CRLF & "----" & $EffectSplit[1] & @CRLF & "--------" & $EffectSplit[2] & @CRLF & @CRLF
+			Else
+				$Effects = $Effects & $FilteredString & @CRLF & "----" & "Unknown" & @CRLF & @CRLF
 			EndIf
 		Next
-		ToolTip($Effects,MouseGetPos()[0],MouseGetPos()[1],"",0,3)
-		sleep(250)
+		ToolTip($Effects, MouseGetPos()[0], MouseGetPos()[1], "", 0, 3)
+		Sleep(250)
 	EndIf
 	Sleep(50)
 WEnd
