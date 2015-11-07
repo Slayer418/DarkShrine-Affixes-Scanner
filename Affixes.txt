@@ -1,19 +1,14 @@
 increased Attack Speed
 ?
 to maximum Life
-?
+increased Monster Movement Speed|increased Monster Attack Speed|increased Monster Cast Speed
 Chance to Block|Chance to Block with Shields
 reduced Enemy Stun Threshold
 Mana on kill
+Monsters have increased Area of Effect
 ?
+Players Recover Life, Mana and Energy Shield slower
 ?
-to Intelligence
-to Strength
-to Dexterity
-to Dexterity and Intelligence
-to Strength and Intelligence
-to Strength and Dexterity
-to All Attributes
 increased Physical Damage
 increased Stun Recovery
 to Level of Socketed Melee Gems
@@ -26,6 +21,14 @@ Additional Chance To Block Spells While Dual Wielding|Additional Chance To Block
 ?
 increased Damage over Time
 ?
+?
+to Intelligence
+to Strength
+to Dexterity
+to Dexterity and Intelligence
+to Strength and Intelligence
+to Strength and Dexterity
+to All Attributes
 to Fire Resistance
 to Cold Resistance 
 to Lightning Resistance
